@@ -2,7 +2,7 @@
 Repositório para registro de atividade sobre recursão em Assembly, da matéria de Organização e Arquitetura de Computadores II
 
 ### Descrição
-Este projeto busca registrar a solução de um exercício da matéria de Organização e Arquitetura de Computadores II. Trata-se de um exercício que aborda o uso de funções recursivas em um cálculo alternativo e modificado de fatoriais.
+Este projeto busca registrar a solução de um exercício da matéria de Organização e Arquitetura de Computadores II. Trata-se de um exercício que aborda o uso de funções recursivas em um cálculo alternativo e modificado de fatoriais. A resolução do exercício foi implementada em linguagem de máquina através do MARS, que é um ambiente de desenvolvimento integrado que simula a arquitetura MIPS. Nessa implementação usada, a arquitetura MIPS utiliza-se de instruções de 32 bits.
 
 ### Principais conceitos trabalhados no exercício:
 - Uso e gerenciamento da pilha de memória
